@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(data:image/jpeg;base64,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);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #343a40;
+    color: white;
+    padding: 1.9rem;
+    position: fixed;
+    width: 250px;
+}
+
+.sidebar h2 {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.sidebar nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar nav ul li {
+    margin: 1rem 0;
+}
+
+.sidebar nav ul li a {
+    color: #cccccc;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.sidebar nav ul li a:hover,
+.sidebar nav ul li a.active {
+    color: #ffffff;
+    background-color: #495057;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.content {
+    margin-left: 270px;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+form input,
+form textarea,
+form button {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+form button {
+    background-color: #007bff;
+    color: white;
+    padding: 0.7rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
